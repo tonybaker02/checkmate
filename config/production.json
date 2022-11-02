@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://tonybaker02:Arturo02@cluster0.mdhhy94.mongodb.net/Checkmate?retryWrites=true&w=majority",
+    "jwtSecretToken":"mysecrettoken"
+}
